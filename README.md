@@ -1,4 +1,4 @@
-# bulbulbot
+# discobot
 
 A free and open source discord bot that utilizes MongoDB.
 
